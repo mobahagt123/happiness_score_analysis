@@ -1,0 +1,3 @@
+https://apps.who.int/nha/database/Select/Indicators/en
+https://stackoverflow.com/questions/38783027/jupyter-notebook-display-two-pandas-tables-side-by-side
+https://data.worldbank.org/indicator
